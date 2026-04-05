@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">A passionate solutions architect that also happens to be a coder</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanlim83" alt="hanlim83" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://trophy.ryglcloud.net/?username=hanlim83" alt="hanlim83" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hansen-lim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansen-lim" height="30" width="40" /></a>
